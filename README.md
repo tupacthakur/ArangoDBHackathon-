@@ -1,4 +1,5 @@
 # Graphazon: CoPurchase Cosmos
+Check it out at- https://www.youtube.com/watch?v=2TegVgUSS0M&t=19s
 
 **Uncover the hidden patterns of Amazon shopping with AI-powered graph analysis.**
 
